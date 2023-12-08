@@ -1,0 +1,129 @@
+ /* body{
+     background-image: url("../../img/Background-opera-speeddials-community-web-simple-backgrounds.jpg");
+     background-size:cover; 
+     width:100%;
+     height:109vh;
+}  */
+#image{
+ height:350px;
+}
+#image1{
+     height:100px;
+     width:100px;
+    }
+.nav-link:hover{
+     text-decoration: underline ;
+}
+input[type="radio"]:checked{
+     background-color:rgb(221, 195, 47);
+     border-color: gray;
+}
+.card1{
+     transition: .3s transform cubic-bezier(.155,1.105,.295,1.12);
+}  
+.card1:hover{
+     transform: scale(1.05);
+     cursor: pointer;
+}
+#our_team:hover{
+     background-color: black;
+     color:rgba(212, 177, 3, 0.932);
+     font-weight: 500;
+
+}
+.team-item {
+     transition: .5s;
+     border: 1px solid transparent;
+     transition: .5s;
+ }
+ 
+ .team-item:hover {
+ 
+     border-color: black;
+ }
+ @media only screen and (min-width: 1024px) {
+     .me {
+       margin-left:140px;
+     }
+   }
+ 
+   .footer .btn.btn-social {
+     margin-right: 5px;
+     width: 40px;
+     height: 40px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     color: black;
+     border: 1px solid rgba(256, 256, 256, .1);
+     border-radius: 40px;
+     transition: .3s;
+ }
+ .footer{
+     border:1px solid gray;
+ }
+ .footer .btn.btn-social:hover {
+     color: rgb(243, 180, 44);
+ }
+ 
+ .footer .btn.btn-link {
+     text-decoration: none;
+     display: block;
+     margin-bottom: 10px;
+     padding: 0;
+     text-align: left;
+     color: rgba(0, 0, 0, 0.5);
+     font-weight: normal;
+     transition: .3s;
+ }
+ 
+ .footer .btn.btn-link:hover {
+     color: rgb(243, 180, 44);
+ }
+ 
+ .footer .btn.btn-link::before {
+     position: relative;
+     content: "\f105";
+     font-family: "Font Awesome 5 Free";
+     font-weight: 900;
+     margin-right: 10px;
+ }
+ 
+ .footer .btn.btn-link:hover {
+     letter-spacing: 1px;
+     box-shadow: none;
+ }
+ 
+ .footer .copyright {
+     padding: 25px 0;
+     font-size: 14px;
+     border-top: 1px solid rgba(256, 256, 256, .1);
+ }
+ 
+ .footer .copyright a {
+     color: rgba(255,255,255,.5);
+ }
+ 
+ .footer .copyright a:hover {
+     color: #FFFFFF;
+ }
+ 
+ .footer .footer-menu a {
+     margin-right: 15px;
+     padding-right: 15px;
+     border-right: 1px solid rgba(255, 255, 255, .1);
+ }
+ 
+ .footer .footer-menu a:last-child {
+     margin-right: 0;
+     padding-right: 0;
+     border-right: none;
+ }
+ .object-fit-cover{
+    z-index:-1;
+ }
+ .menu-link{
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 80px;
+ }
