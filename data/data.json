@@ -1,0 +1,216 @@
+{
+  "menu": {
+    "mostPopular": [
+      {
+        "id": 1,
+        "name": "Thnol Coffee",
+        "description": "Thnol Coffee is Tube's signature coffee.",
+        "fullDescription": "Thnol Coffee is Tube's signature coffee. It's inspired by so-called 'street coffee, the ingredients consist of a smooth aromatic espresso mixed with wholesome milk, rich creamer, and delightful condensed milk, creating a delicious sweet and velvety coffee blend that Cambodians love.",
+        "price": "$2.07",
+        "image": "../img/1525652.jpg",
+        "category": "mostPopular",
+        "sizes": ["Small", "Large"]
+      },
+      {
+        "id": 2,
+        "name": "100% Arabica Latte",
+        "description": "100% Arabica bean",
+        "fullDescription": "100% Arabica bean",
+        "price": "$2.07",
+        "image": "../img/2254764.jpg",
+        "category": "mostPopular",
+        "sizes": ["Small", "Large"]
+      },
+      {
+        "id": 3,
+        "name": "Fresh Passion Juice",
+        "description": "Super Free Passion fruit (The most popular drink) in the store.",
+        "fullDescription": "Super Free Passion fruit (The most popular drink) in the store",
+        "price": "$2.07",
+        "image": "../img/2254792.jpg",
+        "category": "mostPopular",
+        "sizes": ["Small", "Large"]
+      },
+      {
+        "id": 4,
+        "name": "Green Milk Tea",
+        "description": "With the combination of freshly brewed tea, fresh milk, condensed milk, cream, and ice to make more better taste.",
+        "fullDescription": "With the combination of freshly brewed tea, fresh milk, condensed milk, cream, and ice to make more better taste.",
+        "price": "$2.07",
+        "image": "../img/1529872.jpg",
+        "category": "mostPopular",
+        "sizes": ["Small", "Large"]
+      },
+      {
+        "id": 5,
+        "name": "Wildberry Raspberry Tea",
+        "description": "Special Taste, Rose Red color mixed up the quality of Tea with Rose Berry Flavor",
+        "fullDescription": "Special Taste, Rose Red color mixed up the quality of Tea with Rose Berry Flavor",
+        "price": "$2.07",
+        "image": "../img/images.jpg",
+        "category": "mostPopular",
+        "sizes": ["Small", "Large"]
+      },
+      {
+        "id": 6,
+        "name": "100% Arabica Americano",
+        "description": "100% Arabica bean",
+        "fullDescription": "100% Arabica bean",
+        "price": "$2.07",
+        "image": "../img/1527509.jpg",
+        "category": "mostPopular",
+        "sizes": ["Small", "Large"]
+      }
+    ],
+    "signatureCoffee": [
+      {
+        "id": 7,
+        "name": "Hot Thnol Coffee",
+        "description": "Thnol Coffee is Tube's signature coffee.",
+        "fullDescription": "Thnol Coffee is Tube's signature coffee. creating a delicious sweet and velvety coffee blend that Cambodians love.",
+        "price": "$2.43",
+        "image": "../img/1525652.jpg",
+        "category": "signatureCoffee",
+        "sizes": ["Small", "Large"]
+      }
+    ],
+    "hotDrinks": [
+      {
+        "id": 8,
+        "name": "100% Hot Arabica Espresso",
+        "description": "100% Arabica bean",
+        "fullDescription": "100% hot Arabica Espresso",
+        "price": "$1.95",
+        "image": "../img/hot drink 1.jpg",
+        "category": "hotDrinks",
+        "sizes": ["Small", "Large"]
+      },
+      {
+        "id": 9,
+        "name": "100% Hot Arabica Cappuccino",
+        "description": "100% Arabica bean",
+        "fullDescription": "100% hot Arabica Cappuccino",
+        "price": "$2.43",
+        "image": "../img/hot drink 2.jpg",
+        "category": "hotDrinks",
+        "sizes": ["Small", "Large"]
+      },
+      {
+        "id": 10,
+        "name": "Hot Thnol Coffee",
+        "description": "Thnol coffee is signature tubecoffe",
+        "fullDescription": "Thnol coffee is signature tubecoffe",
+        "price": "$2.43",
+        "image": "../img/hot drink 1.jpg",
+        "category": "hotDrinks",
+        "sizes": ["Small", "Large"]
+      },
+      {
+        "id": 11,
+        "name": "100% Hot Arabica Latte",
+        "description": "100% Arabica bean",
+        "fullDescription": "100% Hot Arabica Latte",
+        "price": "$2.43",
+        "image": "../img/hot drink 1.jpg",
+        "category": "hotDrinks",
+        "sizes": ["Small", "Large"]
+      },
+      {
+        "id": 12,
+        "name": "100% Arabica Americano",
+        "description": "100% Arabica bean",
+        "fullDescription": "100% Arabica bean",
+        "price": "$2.43",
+        "image": "../img/hot drink 1.jpg",
+        "category": "hotDrinks",
+        "sizes": ["Small", "Large"]
+      }
+    ],
+    "pastry": [
+      {
+        "id": 13,
+        "name": "Mini Raisin Roll",
+        "description": "Super soft, fluffy, tender, and chewy (For ref only)",
+        "fullDescription": "Super soft, fluffy, tender, and chewy (For ref only)",
+        "price": "$2.00",
+        "image": "../img/pastry1.jpg",
+        "category": "pastry",
+        "sizes": []
+      },
+      {
+        "id": 14,
+        "name": "Mini Croissant",
+        "description": "A crisp texture with the great taste of butter (For ref only)",
+        "fullDescription": "A crisp texture with the great taste of butter (For ref only)",
+        "price": "$2.00",
+        "image": "../img/pastry2.jpg",
+        "category": "pastry",
+        "sizes": []
+      },
+      {
+        "id": 15,
+        "name": "Mini Chocolate Tin",
+        "description": "A treasure trove of miniature chocolate delights, packed in a charming tin for a sweet and delightful experience (For ref only)",
+        "fullDescription": "A treasure trove of miniature chocolate delights, packed in a charming tin for a sweet and delightful experience (For ref only)",
+        "price": "$2.00",
+        "image": "../img/pastry3.jpg",
+        "category": "pastry",
+        "sizes": []
+      },
+      {
+        "id": 16,
+        "name": "Mini Almond Croissant",
+        "description": "It is a crescent-shaped French pastry filled with a sweetened almond mixture (For ref only)",
+        "fullDescription": "It is a crescent-shaped French pastry filled with a sweetened almond mixture (For ref only)",
+        "price": "$2.00",
+        "image": "../img/pastry1.jpg",
+        "category": "pastry",
+        "sizes": []
+      }
+    ]
+  },
+  "categories": [
+    {
+      "id": "mostPopular",
+      "name": "Most Popular",
+      "description": "Most ordered right now."
+    },
+    {
+      "id": "signatureCoffee",
+      "name": "Signature Coffee",
+      "description": "Our special signature coffee blends."
+    },
+    {
+      "id": "hotDrinks",
+      "name": "Hot Drinks",
+      "description": "Warming hot beverages for any time of day."
+    },
+    {
+      "id": "pastry",
+      "name": "Pastry",
+      "description": "Enjoy! Pastry with 100% ARABICA"
+    }
+  ],
+  "restaurant": {
+    "name": "Tube Coffee",
+    "tagline": "Life Is Hard. Coffee Makes It Better.",
+    "description": "We make sure everything we do honors that connection – from our commitment to the highest quality coffee in the world, to the way we engage with our customers and communities to do business responsibly.",
+    "logo": "../img/tube_logo_n.png",
+    "contact": {
+      "address": "#387B, Str. Russian Federation, Phnom Penh, Cambodia, 12301",
+      "phone": "+85510680575",
+      "email": "tubecafeinfo@gmail.com"
+    },
+    "hours": {
+      "days": "Monday-Sunday",
+      "time": "6:00AM-8:00PM"
+    },
+    "social": {
+      "facebook": "https://web.facebook.com/TubeCoffeeCambodia",
+      "twitter": "#",
+      "youtube": "#",
+      "instagram": "#",
+      "linkedin": "#"
+    }
+  }
+}
